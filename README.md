@@ -1,5 +1,3 @@
-# MonitoringWithPrometheusAndGrafana
-
 
 # **Monitoring with Prometheus and Grafana**
 
